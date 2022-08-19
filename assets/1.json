@@ -1,0 +1,19 @@
+{
+    "name": "equilibre",
+    "symbol": "EQL",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "url": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "HCRWD3zkXJhRmhbTRRsxrMPeT366cUaMv12qz8xob3aA",
+                "share": 100
+            }
+        ]
+    } 
+}

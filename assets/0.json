@@ -1,0 +1,19 @@
+{
+    "name": "DolaMakesPounds",
+    "symbol": "DMP",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "url": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "HCRWD3zkXJhRmhbTRRsxrMPeT366cUaMv12qz8xob3aA",
+                "share": 100
+            }
+        ]
+    } 
+}
